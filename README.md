@@ -2,6 +2,6 @@
 
 ## Exercícios do site w3Schools
 
-### Lista de Exercícios
+### Assunto / Número de Exercícios
 
-- 01 Date and Time;
+- Variáveis / 5;
