@@ -5,3 +5,4 @@
 ### Assunto / Número de Exercícios
 
 - Variáveis / 5;
+- Operadores / 5;
